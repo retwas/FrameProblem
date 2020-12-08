@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020/12/08 10:44:21.988,=C:\Users\rvalt\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2020/12/08 10:44:58.102,C:\Users\rvalt\Documents\Embarcadero\Studio\Projets\FrameProblem\Unit1.fmx=C:\Users\rvalt\Documents\Embarcadero\Studio\Projets\Unit1.fmx</Transaction>
+    <Transaction>2020/12/08 10:44:58.102,C:\Users\rvalt\Documents\Embarcadero\Studio\Projets\FrameProblem\Unit1.pas=C:\Users\rvalt\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2020/12/08 10:45:05.741,C:\Users\rvalt\Documents\Embarcadero\Studio\Projets\FrameProblem\FrameProblem.dproj=C:\Users\rvalt\Documents\Embarcadero\Studio\Projets\Project1.dproj</Transaction>
+    <Transaction>2020/12/08 10:45:11.719,=C:\Users\rvalt\Documents\Embarcadero\Studio\Projets\FrameProblem\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
